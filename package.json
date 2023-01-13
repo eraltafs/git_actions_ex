@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eraltafs/git_actions_ex/issues"
   },
-  "homepage": "https://github.com/eraltafs/git_actions_ex#readme"
+  "homepage": "https://github.com/eraltafs/git_actions_ex#readme",
+  "dependencies": {
+    "random-number": "^0.0.9"
+  }
 }
