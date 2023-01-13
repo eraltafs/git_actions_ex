@@ -1,3 +1,3 @@
-console.log("hello")
-var rn = require('random-number');
+console.log('hello')
+const rn = require('random-number')
 console.log(rn())
